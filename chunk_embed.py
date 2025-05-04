@@ -28,7 +28,7 @@ class embedding:
             
         try:
             self.logger.info(f"Input Urls {urls}")
-            # Use a local, free embedding model
+            
             embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
             all_texts = []
