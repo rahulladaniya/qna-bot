@@ -20,7 +20,7 @@ It allows you to ingest web content from multiple URLs, embed the content, and t
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/qna-bot.git
+git clone https://github.com/rahulladaniya/qna-bot.git
 cd qna-bot
 ```
 
