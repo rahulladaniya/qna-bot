@@ -7,3 +7,6 @@ logs/
 vector.index
 vector.index/
 app.log
+.devcontainer
+.devcontainer/
+
