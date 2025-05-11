@@ -5,3 +5,4 @@ langchain-community
 langchain-huggingface
 faiss-cpu
 hf_xet
+sentence-transformers
